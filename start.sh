@@ -1,0 +1,1 @@
+./keyhunt -m address -f tests/1to32.txt -r 40000000000000000:fffffffffffffffff
